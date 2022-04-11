@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Spinners</string>
+    <string-array name="pokemon">
+        <item>Select Pokemon</item>
+        <item>Bulbasaur</item>
+        <item>Charizard</item>
+        <item>Squirtle</item>
+        <item>Pidgeotto</item>
+        <item>Pikachu</item>
+    </string-array>
+    <string-array name="pokemon_number">
+        <item></item>
+        <item>001</item>
+        <item>006</item>
+        <item>007</item>
+        <item>017</item>
+        <item>025</item>
+    </string-array>
+    <string-array name="pokemon_type">
+        <item></item>
+        <item>Grass, Poison</item>
+        <item>Fire, Flying</item>
+        <item>Water</item>
+        <item>Normal, Flying</item>
+        <item>Electric</item>
+    </string-array>
+</resources>
