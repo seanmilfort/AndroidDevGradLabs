@@ -1,0 +1,6 @@
+Select Pokemon/000/No Type/No Evolution
+Bulbasaur/001/Grass, Poison/Ivysaur - Level 16
+Charizard/006/Fire, Flying/No Evolution
+Squirtle/007/Water/Wartortle - Level 16
+Pidgeotto/017/Normal, Flying/Pidgeot - Level 36
+Pikachu/025/Electric/Raichu - Thunderstone
