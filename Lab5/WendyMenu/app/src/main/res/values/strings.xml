@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WendyMenu</string>
+    <string-array name="meal_items">
+        <item>Hamburger</item>
+        <item>Cheeseburger</item>
+        <item>Bacon Cheeseburger</item>
+    </string-array>
+    <string-array name="meal_prices">
+        <item>4.19</item>
+        <item>4.59</item>
+        <item>4.99</item>
+    </string-array>
+    <string-array name="burger_number">
+        <item>Jr</item>
+        <item>Single</item>
+        <item>Double</item>
+    </string-array>
+    <string-array name="burger_prices">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="toppings">
+        <item>Mayo</item>
+        <item>Lettuce</item>
+        <item>Pickles</item>
+        <item>Tomatoes</item>
+        <item>Onions</item>
+        <item>Ketchup</item>
+        <item>Mustard</item>
+        <item>No Toppings</item>
+    </string-array>
+</resources>
