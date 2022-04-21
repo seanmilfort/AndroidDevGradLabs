@@ -30,4 +30,14 @@
         <item>Mustard</item>
         <item>No Toppings</item>
     </string-array>
+    <string-array name="addon">
+        <item>Frosty</item>
+        <item>Chilli</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="addon_prices">
+        <item>2.99</item>
+        <item>3.49</item>
+        <item>0</item>
+    </string-array>
 </resources>
