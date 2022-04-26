@@ -7,3 +7,4 @@ The lab folders follow the corresponding lab:
 - Lab 3: Spinners/ImageViews Lab
 - Lab 4: Create Your Own Class
 - Lab 5: Wendy's Menu
+- Lab 6: JSON's and Pulling Images from Internet

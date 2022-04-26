@@ -1,0 +1,46 @@
+{
+  "pokemon": [
+    {
+      "pokeName": "Select Pokemon",
+      "pokeNumber": "000",
+      "pokeType": "No Type",
+      "pokeEvolution": "No Evolution",
+      "pokeImage": "https://archives.bulbagarden.net/media/upload/thumb/d/d2/Pok%C3%A9mon_logo_English.png/800px-Pok%C3%A9mon_logo_English.png"
+    },
+    {
+      "pokeName": "Bulbasaur",
+      "pokeNumber": "001",
+      "pokeType": "Grass, Poison",
+      "pokeEvolution": "Ivysaur - Level 16",
+      "pokeImage": "https://archives.bulbagarden.net/media/upload/thumb/2/21/001Bulbasaur.png/250px-001Bulbasaur.png"
+    },
+    {
+      "pokeName": "Charizard",
+      "pokeNumber": "006",
+      "pokeType": "Fire, Flying",
+      "pokeEvolution": "No Evolution",
+      "pokeImage": "https://archives.bulbagarden.net/media/upload/thumb/7/7e/006Charizard.png/250px-006Charizard.png"
+    },
+    {
+      "pokeName": "Squirtle",
+      "pokeNumber": "007",
+      "pokeType": "Water",
+      "pokeEvolution": "Wartortle - Level 16",
+      "pokeImage": "https://archives.bulbagarden.net/media/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png"
+    },
+    {
+      "pokeName": "Pidgeotto",
+      "pokeNumber": "017",
+      "pokeType": "Normal, Flying",
+      "pokeEvolution": "Pidgeot - Level 36",
+      "pokeImage": "https://archives.bulbagarden.net/media/upload/thumb/7/7a/017Pidgeotto.png/250px-017Pidgeotto.png"
+    },
+    {
+      "pokeName": "Pikachu",
+      "pokeNumber": "025",
+      "pokeType": "Electric",
+      "pokeEvolution": "Raichu - Thunderstone",
+      "pokeImage": "https://archives.bulbagarden.net/media/upload/thumb/0/0d/025Pikachu.png/250px-025Pikachu.png"
+    }
+  ]
+}
